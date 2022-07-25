@@ -1,0 +1,14 @@
+.slider-bg {
+    background-color: #FEEAE9;
+}
+
+.buy-now-btn {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    color: #fff;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.bg-categories {
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
